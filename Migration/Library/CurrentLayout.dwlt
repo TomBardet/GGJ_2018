@@ -262,7 +262,7 @@ MonoBehaviour:
   - {fileID: 22}
   - {fileID: 21}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -477,19 +477,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scene
   m_ViewMode: 1
   m_StartGridSize: 78
   m_LastFolders:
-  - Assets
+  - Assets/Scene
   m_LastFoldersGridSize: 78
   m_LastProjectPath: D:\ISART\Documents\Projets\GGJ2018\GGJ_2018\Migration
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e280000
-    m_LastClickedID: 10398
-    m_ExpandedIDs: 9e28000000ca9a3bffffff7f
+    m_SelectedIDs: 8e270000
+    m_LastClickedID: 10126
+    m_ExpandedIDs: 000000004027000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,7 +517,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000040270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,7 +544,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 801b0000221f0000261f00009c1d0000102300008c20ffff56f2feff7ed1feff5c1e0000c2a8feff000500000412f9ffda1d0000c61c0000e41c00000a0500002c05000036050000de050000c2050000ee1f000098220000401c0000660700006a0700001e050000d61d0000fe1f0000bc20000080050000881f00000c340000260500002a0500005608000024070000e82d000030280000a8d601009e260000dc2500001e260000d8280000282800002a290000582900009c2400008e110800fa240000ea2400006e240000c0e7feff040d0000f62400006c2400006a240000f4240000f42300000a240000be2300001c240000d4230000aa240000082400000a2500005626000048470000d63100005a590100407401003c7401009c2d0000a02d0000a82d0000c02d0000fe2f000002330000b631000000000000803000008c650000ea300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -603,7 +603,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: d8f9ffff00000000
+    m_ExpandedIDs: 86fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
